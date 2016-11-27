@@ -3,6 +3,9 @@
 #include "main.h"
 #define BUFFERSIZE 200
 
+/*ESTE PROGRAMA NOS DICE LAS PALABRAS MÁS REPETIDAS EN VARIOS ARCHIVOS
+		ATENCIÓN: Diferencia entra mayusculas y minúsculas, i.e: To != to.
+*/
 int main(int argc, char const *argv[]){
     // Verifica si hay menos de 3 parametros
     // si no entonces se imprimen las instrucciones
